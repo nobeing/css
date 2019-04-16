@@ -13,6 +13,6 @@
   --logo-size-mobile: 90px 32px;
 
   --icon-URL: url("https://jayppo.github.io/CSS/source/icon.png");
-  --pre-comment: "포켓볼에 들어간 ";
-  --sub-comment: "마리 내꺼야!";
+  --pre-comment: " ";
+  --sub-comment: "!";
 }
